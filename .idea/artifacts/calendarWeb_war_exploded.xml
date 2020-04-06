@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="calendarWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/calendarWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="calendarWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="calendarWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
